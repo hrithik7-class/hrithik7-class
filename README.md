@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hie world , I'm hrithik.<br>I'm a Full stack developer and <br>i currently learning about web designing<br>as well as Core dsa concept.<br><br>
+Hie world , I'm Ritik.<br>I'm a Full stack developer and <br>i currently learning about web designing<br>as well as Core dsa concept.<br><br>
 
 
 ## 🌐 Socials:
