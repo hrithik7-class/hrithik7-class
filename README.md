@@ -16,11 +16,6 @@ Hie world , I'm Ritik.<br>I'm a Full stack developer and <br>i currently learnin
 ---
 [![](https://visitcount.itsvg.in/api?id=hrithik7-class&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hrithik7-class&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hrithik7-class&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik7-class&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hrithik7-class&theme=radical&no-frame=false&no-bg=true&margin-w=4)
